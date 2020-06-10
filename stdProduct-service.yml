@@ -16,4 +16,4 @@ greeting : 스테이징 서버에 오신걸 환영합니다.
 
 spring :
   profiles : real
-greeting : 운영 서버에 오신걸 환영합니다. 
+greeting : 운영 서버에 오신걸 환영합니다. 하하하하
